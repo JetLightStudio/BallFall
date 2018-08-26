@@ -122,7 +122,7 @@ button:focus {
 /**home option v2 in version v1.1**/
 
 #home-v2 {
-  background-image: url("../images/pattern-1.png");
+  background-image: url("../images/pattern-1.jpg");
   background-repeat: no-repeat;
   background-position: left top;
   padding-top: 50px;
@@ -641,7 +641,7 @@ features
   background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-image: url(../images/pattern-1.png);
+  background-image: url(../images/pattern-1.jpg);
 }
 .describe .center-heading {
   text-align: left;
@@ -830,7 +830,7 @@ features
   background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-image: url(../images/pattern-1.png);
+  background-image: url(../images/pattern-1.jpg);
 }
 .newsletter h3 {
   color: #fff;
@@ -940,7 +940,7 @@ features
   background-size: auto;
   background-repeat: repeat;
   background-attachment: fixed;
-  background-image: url(../images/pattern-1.png);
+  background-image: url(../images/pattern-1.jpg);
   padding: 100px 0;
 }
 #news h3 {
